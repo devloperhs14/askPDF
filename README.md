@@ -1,5 +1,5 @@
-# askPDF
-A simple rag based pdf question answering system
+# askPDF 📄
+A simple rag based pdf question answering system that run on local!
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ streamlit run app.py
 ```
 
 # Demo
-
+Will be avaible soon!
 
 
 
