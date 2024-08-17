@@ -25,14 +25,14 @@ pip install -r requirements.txt
 ```
 
 
-# Usage
+## Usage
 Create a *.env* file and put your api key in `GROQ_API_KEY`, then...
 ```sh
 # run the app
 streamlit run app.py
 ```
 
-# Demo
+## Demo
 Will be avaible soon!
 
 
