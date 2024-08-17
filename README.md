@@ -19,6 +19,9 @@ cd askPDF
 
 # Start the devlopement environment
 rag-llm\Scripts\activate
+
+# Install requirement
+pip install -r requirements.txt
 ```
 
 
