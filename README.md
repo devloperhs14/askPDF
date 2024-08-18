@@ -17,8 +17,11 @@ git clone https://github.com/devloperhs14/askPD
 # Navigate to the project directory
 cd askPDF
 
+# Create a new environment
+python -m venv venv
+
 # Start the devlopement environment
-rag-llm\Scripts\activate
+venv\Scripts\activate
 
 # Install requirement
 pip install -r requirements.txt
