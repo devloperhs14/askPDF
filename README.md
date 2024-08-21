@@ -10,6 +10,8 @@ A simple rag based pdf question answering system that run on local!
 
 Step-by-step instructions on how to get the development environment running.
 
+Download the base environment file and place it at root of project : [Base Environemnt](https://drive.google.com/drive/folders/13xsWunhffclKbhuu5ADD7Rc7xTMMFxG0?usp=sharing)
+
 ```sh
 # Clone the repository
 git clone https://github.com/devloperhs14/askPD
@@ -17,14 +19,11 @@ git clone https://github.com/devloperhs14/askPD
 # Navigate to the project directory
 cd askPDF
 
-# Create a new environment
-python -m venv venv
+# activate the devlopement environment - cmd
+rag-llm\Scripts\activate
 
-# Start the devlopement environment
-venv\Scripts\activate
-
-# Install requirement
-pip install -r requirements.txt
+# for os
+source rag-llm\Scripts\activate.bat
 ```
 
 
