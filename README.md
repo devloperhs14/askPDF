@@ -34,8 +34,11 @@ Create a *.env* file and put your api key in `GROQ_API_KEY`, then...
 streamlit run app.py
 ```
 
+To Obtain Groq API Key - Refer this article https://www.kerlig.com/help/groq/get-api-key
+
 ## Demo
 For detailed steps, refer to the video. - Follow after cloning repo and cd
 https://github.com/user-attachments/assets/ad329e23-488b-4fbf-9cd3-30e12b7edd39
+
 
 
