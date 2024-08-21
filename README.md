@@ -10,7 +10,7 @@ A simple rag based pdf question answering system that run on local!
 
 Step-by-step instructions on how to get the development environment running.
 
-Download the base environment file and place it at root of project : [Base Environemnt](https://drive.google.com/drive/folders/13xsWunhffclKbhuu5ADD7Rc7xTMMFxG0?usp=sharing)
+Download the base environment file and place it at root of project : [Base Environment](https://drive.google.com/drive/folders/13xsWunhffclKbhuu5ADD7Rc7xTMMFxG0?usp=sharing)
 
 ```sh
 # Clone the repository
