@@ -14,7 +14,7 @@ Download the base environment file and place it at root of project : [Base Envir
 
 ```sh
 # Clone the repository
-git clone https://github.com/devloperhs14/askPD
+git clone https://github.com/devloperhs14/askPDF
 
 # Navigate to the project directory
 cd askPDF
