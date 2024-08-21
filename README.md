@@ -35,7 +35,7 @@ streamlit run app.py
 ```
 
 ## Demo
-Will be avaible soon!
-
+For detailed steps, refer to the video. - Follow after cloning repo and cd
+https://github.com/user-attachments/assets/ad329e23-488b-4fbf-9cd3-30e12b7edd39
 
 
